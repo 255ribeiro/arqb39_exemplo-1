@@ -7,3 +7,6 @@ Aluna: Clara Rocha
 
 ### Inserindo imagem de arquivo pessoal
 ![pytonlogo](.\Figs/python-logo.png)
+
+### Teste upload de arquivos
+teste 01 
