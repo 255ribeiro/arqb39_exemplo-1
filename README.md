@@ -6,4 +6,4 @@ Aluna: Clara Rocha
 [link de referência da linguagem Markdown](https://markedown.net.br/)
 
 ### Inserindo uma imagem 
-![pyton logo](https://penseemti.com.br/wp-content/uploads/2019/01/python-logo.png =100x)
+![pyton logo](https://penseemti.com.br/wp-content/uploads/2019/01/python-logo.png=100x)
